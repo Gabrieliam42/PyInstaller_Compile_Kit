@@ -1,5 +1,7 @@
 # PyInstaller_Compile_Kit 
 
+#### With this PyInstaller Compile Kit you can first create a Python Virtual Environment, install pyinstaller inside that environment than compile any Python script named main.py into a single main.exe file. 
+
 
 
 ## Requirements:
