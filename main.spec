@@ -10,7 +10,7 @@ a = Analysis(
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
-    excludes=['pyinstaller', 'altgraph', 'packaging', 'pefile', 'pyinstaller-hooks-contrib', 'pywin32-ctypes'],
+    excludes=['pyinstaller', 'pyinstaller-hooks-contrib'],
     noarchive=False,
     optimize=0,
 )
