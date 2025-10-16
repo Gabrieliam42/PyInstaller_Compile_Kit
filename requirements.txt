@@ -1,1 +1,2 @@
-pyinstaller==6.9.0
+altgraph
+pyinstaller==6.15.0
